@@ -117,7 +117,7 @@ We discussed opportunities to use modern AI development tools to support technic
 
 ---
 
-Community Session Photo
+## Community Session Photo
 
 A moment from our educational session discussing BLACK SECTOR, its development roadmap, and the role of OpenAI Codex in AI-assisted engineering.
 
