@@ -10,7 +10,7 @@ Official Website: https://blacksector.cc
 
 ---
 
-About BLACK SECTOR
+## About BLACK SECTOR
 
 BLACK SECTOR is being developed as an educational platform for cybersecurity learners, penetration testers, developers, and security enthusiasts.
 
@@ -26,7 +26,7 @@ Our goal is to help learners move beyond theoretical explanations and develop pr
 
 ---
 
-Building with OpenAI Codex
+## Building with OpenAI Codex
 
 OpenAI Codex plays an important role in our development workflow.
 
