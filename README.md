@@ -1,4 +1,4 @@
-BLACK SECTOR × OpenAI Codex
+# BLACK SECTOR × OpenAI Codex
 
 Building the Future of Practical Cybersecurity Education with AI
 
@@ -58,7 +58,7 @@ We believe AI-assisted development is most valuable when combined with human tec
 
 ---
 
-Codex in Practice
+## Codex in Practice
 
 BLACK SECTOR provides a practical environment for exploring AI-assisted software engineering.
 
@@ -79,7 +79,7 @@ This reflects our approach to responsible AI-assisted engineering: use AI to acc
 
 ---
 
-Community Educational Session
+## Community Educational Session
 
 As part of our educational and community-building efforts, we held an in-person session to discuss the BLACK SECTOR development roadmap and the role of OpenAI Codex in supporting our project.
 
@@ -127,7 +127,7 @@ BLACK SECTOR community educational session — discussing cybersecurity educatio
 
 ---
 
-Development Roadmap
+## Development Roadmap
 
 Our long-term roadmap focuses on five major areas.
 
@@ -155,7 +155,7 @@ These represent ongoing development priorities and future directions rather than
 
 ---
 
-Our Community Vision
+## Our Community Vision
 
 We believe advanced technical education should be accessible to more people, regardless of language or background.
 
@@ -167,7 +167,7 @@ Through community discussions, practical projects, and AI-assisted development, 
 
 ---
 
-Why Codex Matters to Our Mission
+## Why Codex Matters to Our Mission
 
 Building a complex educational platform involves continuous learning, technical challenges, experimentation, and improvement.
 
@@ -181,7 +181,7 @@ We want to help more people learn, build, and understand technology through prac
 
 ---
 
-Connect with BLACK SECTOR
+## Connect with BLACK SECTOR
 
 Official Website: https://blacksector.cc
 
@@ -191,7 +191,7 @@ Focus: Cybersecurity Education | Interactive Labs | AI-Assisted Software Develop
 
 ---
 
-BLACK SECTOR — Learn. Build. Secure.
+## BLACK SECTOR — Learn. Build. Secure.
 
 BLACK SECTOR is an independent educational project. It is not affiliated with, sponsored by, or endorsed by OpenAI.
 
