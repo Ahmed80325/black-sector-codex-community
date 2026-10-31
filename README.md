@@ -121,7 +121,7 @@ Community Session Photo
 
 A moment from our educational session discussing BLACK SECTOR, its development roadmap, and the role of OpenAI Codex in AI-assisted engineering.
 
-"BLACK SECTOR Community Session" (assets/community-session.jpg)
+![BLACK SECTOR Community Session](assets/community-session.jpg)
 
 BLACK SECTOR community educational session — discussing cybersecurity education, software development, and AI-assisted engineering.
 
